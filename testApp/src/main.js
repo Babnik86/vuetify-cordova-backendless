@@ -15,7 +15,7 @@ Vue.config.productionTip = false
 //import AppStyles from './assets/sass/main.scss';
 
 import Backendless from 'backendless'
-Backendless.initApp('CC614D4B-A8FF-57B9-FF33-DF67D0DEFC00', 'FDD743EA-8268-2C39-FFB9-858DF08CF500');
+Backendless.initApp('APP_ID, API_KEY);
 
 
 /* eslint-disable no-new */
